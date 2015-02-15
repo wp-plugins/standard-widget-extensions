@@ -69,7 +69,7 @@ Please tell your audience to upgrade browser.
 
 = 1.7.3 - Feb 5, 2015 =
 * Toolbar adjustment for logged in users.
-* Measure version up is coming soon. Stay tuned!
+* Major version up is coming soon. Stay tuned!
 
 = 1.7.2 - Dec 3, 2014 =
 * [Fixed] swapped plus/minus sign for Accordion Widget
