@@ -3,7 +3,7 @@ Contributors: blogger323
 Donate link: http://en.hetarena.com/donate
 Tags: widget, sidebar
 Requires at least: 3.6
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -66,6 +66,9 @@ Please tell your audience to upgrade browser.
 4. Sticky Sidebar setting
 
 == Changelog ==
+
+= May 6, 2015 = 
+* Compatibility information updated.
 
 = 1.7.4 - Mar 5, 2015 =
 * Possibly duplicate handlers in Ajax theme.
